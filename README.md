@@ -38,7 +38,7 @@ Ensembling methods and algorithms, BDTs, ensembles of NN. Methods to interpret t
 
 practicals:
 
-### Session 6 : Deep learning layers and other model architectures
+### Session 6 : Other Deep learning layers and model architectures
 
 ### Session 7 : ODE Solvers
 
@@ -47,6 +47,46 @@ practicals:
 ### Session 9 : Hypothesis testing I
 
 ### Session 10 : Hythesis testing II
+
+
+
+
+Responsable : Antonin Vacheret
+
+## Course content 
+
+The rapid rise Artifical Intelligence (AI) and its use in many different fields of application has been quite remarkable. AI and especially what is called machine learning is very well suited to automate analysis tasks Nuclear and Particle Physics data which has the property of being well structured and available in very large amount can be deciphered using ML methods that are well suited for multi-dimensional problems commonly found in our field. Machine learning enables learning complicated concepts and dependencies based on representation of the data. More recently large language models have opened the possibility to use both data and knowledge through conversation and agency.
+
+In this course, we will take a look at the basic concept and menthods of machine learning from the point of view of a physicist, exploring and using datasets that are commonly found in theoritical and experimental physics. We will gradually move from simple architectures to more advanced one and cover the most common applications and pitfall of ML with the aim of giving all the basic knowledge needed to be operational in this field.  
+
+___
+
+The course has two central parts
+
+Statistical analysis and optimization of data;
+Basic concepts, expectation values, variance, covariance, correlation functions and errors;
+Simpler models, binomial distribution, the Poisson distribution, simple and multivariate normal distributions;
+Central elements of Bayesian statistics and modeling;
+Monte Carlo methods, Markov chains, Metropolis-Hastings algorithm, ergodicity;
+Linear methods for regression and classification;
+Estimation of errors using blocking, bootstrapping and jackknife methods;
+Practical optimization using Singular-value decomposition and least squares for parameterizing data.
+Machine learning
+Gaussian and Dirichlet processes;
+Boltzmann machines;
+Neural networks;
+Genetic algorithms.
+All the above topics will be supported by examples, hands-on exercises and project work.
+
+
+
+
+
+
+
+
+
+
 
 
 
