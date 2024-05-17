@@ -55,7 +55,7 @@ Responsable : Antonin Vacheret
 
 ## Course content 
 
-The rapid rise of Artifical Intelligence (AI) in the last fez decades has been quite remarkable. AI and especially machine learning is very well suited to automate many of the tasks related to modelisation and data analysis found in Nuclear and Particle Physics data. The large amount of multi-dimensional data commonly processed can be deciphered using ML methods which in many areas has surpassed traditional approaches. Those methods enable the learning of complicated concepts and dependencies based on representation of the data.
+The rapid rise of Artifical Intelligence (AI) in the last few decades has been quite remarkable. Machine learning a sub-field of AI is very well suited to automate many of the tasks related to modelisation and data analysis found in Nuclear and Particle Physics data. The large amount of multi-dimensional data commonly processed can be deciphered using ML methods which in many areas has surpassed traditional approaches. Those methods enable the learning of complicated concepts and dependencies based on representation of the data.
 In this course, we will take a look at the basic concept and methods of machine learning from the point of view of a physicist, exploring and using datasets that are commonly found in theoritical and experimental physics. We will gradually move from simple architectures to more advanced one and cover the most common applications and pitfall of ML with the aim of giving all the basic knowledge needed to start applying those tools.  
 
 The course will cover the following concepts and methods :
@@ -74,23 +74,20 @@ All the above topics will be supported by examples, hands-on exercises and proje
 
 ## Learning outcomes
 
-The course introduces a variety of central algorithms and methods essential for studies of data analysis and machine learning. The course is project based and through the various projects, normally two, the students will be exposed to fundamental research problems in these fields, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure comprehensive machine learning codes and get acquainted with computing practices and learn to handle solving scientific problems with ML. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will :
+The course introduces a variety of central algorithms and methods essential for studies of data analysis and machine learning. The course is tutorials and project-based and through the various projects, normally two, the students will be exposed to fundamental research problems in these fields, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure comprehensive machine learning codes and get acquainted with computing practices and learn to handle solving scientific problems with ML. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will :
 
-Learn about basic data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning;
-
-Be capable of extending the acquired knowledge to other systems and cases;
-Have an understanding of central algorithms used in data analysis and machine learning;
-
-Have a basic knowledge of Bayesian statistics and learning and common distributions;
-Gain knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets;
-
-Understand linear methods for regression and classification;
-Learn about neural network, genetic algorithms and Boltzmann machines;
-Work on numerical projects to illustrate the theory. The projects play a central role and students are expected to know modern programming languages like Python or C++
+* Understand the basics about data analysis, selection and visualisation
+* Learn the basics of building and training various type of Machine Learning models
+* Be able to use the most common Machine Learning methods to new problems
+* Have learned about Transformers and Foundation models
+* Have learned how to implement statistical methods for hypothesis testing.
+* Have learn to use some of the most common Python libraries used in Artificial intelligence
+*  Have gained knowledge of central aspects of Monte Carlo methods, Markov chains Monte Carlo and their possible applications
 
 ## Prerequisites
 
 Basic knowledge in programming and numerics
+
 
 
 
