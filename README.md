@@ -72,6 +72,20 @@ Hypothesis testing, Markov chains, Metropolis-Hastings algorithm;
 All the above topics will be supported by examples, hands-on exercises and project work.
 
 
+## Learning outcomes
+
+The course introduces a variety of central algorithms and methods essential for studies of data analysis and machine learning. The course is project based and through the various projects, normally two, the students will be exposed to fundamental research problems in these fields, with the aim to reproduce state of the art scientific results. The students will learn to develop and structure comprehensive machine learning codes and get acquainted with computing practices and learn to handle solving scientific problems with ML. A good scientific and ethical conduct is emphasized throughout the course. More specifically, after this course you will :
+
+[Learn about basic data analysis, Bayesian statistics, Monte Carlo methods, data optimization and machine learning;
+Be capable of extending the acquired knowledge to other systems and cases;
+Have an understanding of central algorithms used in data analysis and machine learning;
+Have a basic knowledge of Bayesian statistics and learning and common distributions;
+Gain knowledge of central aspects of Monte Carlo methods, Markov chains, Gibbs samplers and their possible applications, from numerical integration to simulation of stock markets;
+Understand linear methods for regression and classification;
+Learn about neural network, genetic algorithms and Boltzmann machines;
+Work on numerical projects to illustrate the theory. The projects play a central role and students are expected to know modern programming languages like Python or C++]
+
+
 
 
 
