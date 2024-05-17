@@ -55,28 +55,22 @@ Responsable : Antonin Vacheret
 
 ## Course content 
 
-The rapid rise Artifical Intelligence (AI) and its use in many different fields of application has been quite remarkable. AI and especially what is called machine learning is very well suited to automate analysis tasks Nuclear and Particle Physics data which has the property of being well structured and available in very large amount can be deciphered using ML methods that are well suited for multi-dimensional problems commonly found in our field. Machine learning enables learning complicated concepts and dependencies based on representation of the data. More recently large language models have opened the possibility to use both data and knowledge through conversation and agency.
+The rapid rise of Artifical Intelligence (AI) in the last fez decades has been quite remarkable. AI and especially machine learning is very well suited to automate many of the tasks related to modelisation and data analysis found in Nuclear and Particle Physics data. The large amount of multi-dimensional data commonly processed can be deciphered using ML methods which in many areas has surpassed traditional approaches. Those methods enable the learning of complicated concepts and dependencies based on representation of the data.
+In this course, we will take a look at the basic concept and methods of machine learning from the point of view of a physicist, exploring and using datasets that are commonly found in theoritical and experimental physics. We will gradually move from simple architectures to more advanced one and cover the most common applications and pitfall of ML with the aim of giving all the basic knowledge needed to start applying those tools.  
 
-In this course, we will take a look at the basic concept and menthods of machine learning from the point of view of a physicist, exploring and using datasets that are commonly found in theoritical and experimental physics. We will gradually move from simple architectures to more advanced one and cover the most common applications and pitfall of ML with the aim of giving all the basic knowledge needed to be operational in this field.  
+The course will cover the following concepts and methods :
 
-___
-
-The course has two central parts
-
-Statistical analysis and optimization of data;
-Basic concepts, expectation values, variance, covariance, correlation functions and errors;
-Simpler models, binomial distribution, the Poisson distribution, simple and multivariate normal distributions;
+Statistical analysis and optimization of data; 
+Visualisation of data and embedding;
+Basic concepts, expectation values, variance, covariance, correlation functions and errors; 
+Shallow and deep neural nets; 
+Architecture components and current models;
+Classification and regression tasks; Foundation models;  
 Central elements of Bayesian statistics and modeling;
-Monte Carlo methods, Markov chains, Metropolis-Hastings algorithm, ergodicity;
-Linear methods for regression and classification;
-Estimation of errors using blocking, bootstrapping and jackknife methods;
-Practical optimization using Singular-value decomposition and least squares for parameterizing data.
-Machine learning
-Gaussian and Dirichlet processes;
-Boltzmann machines;
-Neural networks;
-Genetic algorithms.
+Hypothesis testing, Markov chains, Metropolis-Hastings algorithm;
+
 All the above topics will be supported by examples, hands-on exercises and project work.
+
 
 
 
