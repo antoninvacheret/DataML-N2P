@@ -81,12 +81,12 @@ The course introduces a variety of central algorithms and methods essential for 
 * Be able to use the most common Machine Learning methods to new problems
 * Have learned about Transformers and Foundation models
 * Have learned how to implement statistical methods for hypothesis testing.
-* Have learn to use some of the most common Python libraries used in Artificial intelligence
-*  Have gained knowledge of central aspects of Monte Carlo methods, Markov chains Monte Carlo and their possible applications
+* Have learned to use some of the most common Python libraries used in Artificial intelligence
+* Have gained knowledge of central aspects of Monte Carlo methods, Markov chains Monte Carlo and their possible applications
 
 ## Prerequisites
 
-Basic knowledge in programming and numerics
+Basic knowledge in programming and numerics.
 
 
 
