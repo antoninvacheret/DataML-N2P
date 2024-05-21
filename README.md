@@ -65,6 +65,7 @@ Practicals :
 
 
 Responsable : Antonin Vacheret
+Enseignants : D. Cussol, G. Lehaut, A. Vacheret.
 
 ## Course content 
 
