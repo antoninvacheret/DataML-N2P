@@ -43,17 +43,17 @@ Practicals:
 ### Session 6 : Other Deep learning layers and model architectures
 Course : Intruduction to other type of layers : Convolution layers, CNNs, GNNs, RNN, Auto-Encoders, GANs. Use cases and benchmark of models depending on the application. 
 
-Practicals : Use the dataset to benchmark the models. Look at what has learned a CNN based on pulse data for instance. Look at the Scinet Auto-encoder (intro to next session)
+Practicals : Use the dataset to benchmark the models. Look at what has learned a 1D-CNN based on pulse data for instance. Look at the Scinet Auto-encoder (intro to next session). 2D CNN on pdml data. 
 
 ### Session 7 : ODE Solvers
-Course : Take session from Morten's course. 
+Course : Take session from Morten's course and PINNs models based on summer school material.  
 
-Practicals :
+Practicals : 
 
 ### Session 8 : Transformers and foundation models
-Course :
+Course : Overview and dive into self-attention layer in details. Building a transformer architecture - presenting the applications of transformers. Some introduction to NLP and models used (BERT and GPT models). Scaling law of foundation models. Introduce the tutorial task about anomaly detection. 
 
-Practicals :
+Practicals : Application to anomaly detection - used already trained models to explore anomaly detection - in physics hiding different events in different datasets.  
 
 ### Session 9 : Hypothesis testing I
 Course :
