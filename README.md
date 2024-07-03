@@ -3,6 +3,8 @@ Data Analysis and Machine Learning course for the Erasmus Mundus Degree in Nucle
 
 ## Teaching progam 
 
+support medium : google colab, Kaggle notebook, jupyter notebook
+
 ### Session 1 : Introduction to the Course and machine learning in N&P Physics
 
 Course :
@@ -14,7 +16,7 @@ Practical session :
 Continue on the the introduction of tools and data manipulation with exercises  
 
 ### Session 2 : Data manipulation, visualisation, basics of data analysis, intro to tensors 
-Course : introduction to the pdml_extended datasets : type of datasets (reco, low level, time series, images, visualisation methods, applying selection cuts, correlations, embedding visualisation algorithms. Introduction to basic statistical methods. More advanced examples with pandas - Quick introduction to streamlit / plotly / seaborn for interactive plots. Example of how to prepare a labelled dataset for Pytorch/Keras.
+Course : introduction to the pdml_extended datasets : type of datasets (reco, low level, time series, images, visualisation methods (PCA), applying selection cuts, correlations, embedding visualisation algorithms (t-SNE, UMAP). Introduction to basic statistical methods. More advanced examples with pandas - Quick introduction to streamlit / plotly / seaborn for interactive plots. Example of how to prepare a labelled dataset for Pytorch/Keras.
 
 Practicals :
 study another type of datasets : time series of pulses / other
